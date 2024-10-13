@@ -23,7 +23,6 @@ This project introduces **MediSeek HMS**, a CRUD-based system that allows for se
 8. [Database Schema](#database-schema)
 9. [Hardware and Software Requirements](#hardware-and-software-requirements)
 10. [Contributing](#contributing)
-11. [License](#license)
 
 ---
 
@@ -75,8 +74,7 @@ This project introduces **MediSeek HMS**, a CRUD-based system that allows for se
 4. Clone the project from the repository:
 
    ```bash
-   git clone https://github.com/your-repo/mediseek-hms.git
-   cd mediseek-hms
+   git clone https://github.com/mutendisambaza/MediSeek
 
 5. Open the project in NetBeans and set up the database connection to Microsoft Access.
 
